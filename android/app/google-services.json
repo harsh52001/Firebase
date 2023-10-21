@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470883727294",
+    "project_id": "dummy-78915",
+    "storage_bucket": "dummy-78915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470883727294:android:ae82540c06076fd7adebef",
+        "android_client_info": {
+          "package_name": "com.Harsh_1234.Dummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470883727294-bugbre9f6mat8fuke65b60c2egc41udb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaGFq4TnVt0jtq7R26ZGydB0WyKv9sH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470883727294-bugbre9f6mat8fuke65b60c2egc41udb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
